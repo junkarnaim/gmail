@@ -18,7 +18,7 @@ const Email = () => {
         <MdOutlineStarBorder size={'20px'}/>
       </div>
       <div>
-        <h1 className='font-semibold'>30dayscoading</h1>
+        <h1 className='font-semibold'>naim@123gmail.com</h1>
       </div>
       </div>
       <div className='flex-1 ml-4'>
