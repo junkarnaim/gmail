@@ -6,6 +6,9 @@ import cors from "cors"
 import userRoute from "./routes/user.route.js";
 import emailRoute from "./routes/email.route.js";
 
+//import nodemailer from 'nodemailer';
+
+
 dotenv.config();
 connectDB();
 const PORT = 8080;
